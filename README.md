@@ -1,0 +1,2 @@
+# MAMH.UCLA
+Econometrics package
